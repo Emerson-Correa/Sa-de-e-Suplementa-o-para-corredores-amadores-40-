@@ -1,11 +1,11 @@
-#Guia Rápido - Saúde e Suplementação para corredores amadores 40+
+# Guia Rápido - Saúde e Suplementação para corredores amadores 40+
 
-##Contexto e Objetivos:
+## Contexto e Objetivos:
 O assunto de interesse foi de como se dá a suplementação para corredores de rua amadores com faixa etária a partir de 40 anos.
 Este guia tem como objetivo orientar e informar os interessados sobre alimentação/suplementação que queiram manter e/ou aumentar a sua performance na atividade física de corrida, 
 bem como manter a saúde em dia.
 
-##Curadoria de Fontes:
+## Curadoria de Fontes:
 
 1 - 10 Suplementos Essenciais Após os 50 Anos - (https://www.youtube.com/watch?v=TV_Npoa-yq8)
 
@@ -17,13 +17,12 @@ bem como manter a saúde em dia.
 
 5 - Correr depois dos 30, 40, 50... A idade influencia a corrida? - (https://www.youtube.com/watch?v=5VHlsmV4SO0)
 
-##Engenharia de Prompts e "Cicatrizes": 
+## Engenharia de Prompts e "Cicatrizes": 
 
-Prompt 1 - **Qual a melhor estratégia de suplementação para um corredor amador de quase 50 anos?**
+Prompt 1 - ***Qual a melhor estratégia de suplementação para um corredor amador de quase 50 anos?***
 
 Resposta:
-Para um corredor amador de quase 50 anos, a melhor estratégia de suplementação foca em combater a perda de massa muscular (sarcopenia), proteger a saúde óssea e articular e otimizar a 
-recuperação, que se torna mais lenta com a idade.(Utilizou as fontes 1 e 4)
+Para um corredor amador de quase 50 anos, a melhor estratégia de suplementação foca em combater a perda de massa muscular (sarcopenia), proteger a saúde óssea e articular e otimizar a recuperação, que se torna mais lenta com a idade.(Utilizou as fontes 1 e 4)
 
 As fontes sugerem os seguintes pilares para a suplementação:
 
@@ -65,10 +64,9 @@ Consistência: Os benefícios de suplementos como a creatina e o ômega-3 são c
 
 Orientação Profissional: Antes de iniciar qualquer protocolo, é indispensável a consulta com um médico ou nutricionista, pois o excesso ou desequilíbrio de vitaminas pode causar problemas de absorção e efeitos colaterais (utilizou a fonte 4).
 
-
-Prompt 2 - **Supondo que eu seja um corredor amador de rua na faixa dos 49 anos, levemente acima do peso e com a regularidade de corrida 4x/semana, 
+Prompt 2 - ***Supondo que eu seja um corredor amador de rua na faixa dos 49 anos, levemente acima do peso e com a regularidade de corrida 4x/semana, 
 quais alimentos devo priorizar e suplementar para ter um melhor aproveitamento da atividade física sem comprometer a saúde física e mental? 
-Atue como um Nutricionista que estivesse conversando com um paciente leigo no assunto.**
+Atue como um Nutricionista que estivesse conversando com um paciente leigo no assunto.***
 
 Resposta: 
  Olá! Que prazer receber você. Aos 49 anos e com essa regularidade de quatro treinos por semana, você está em uma fase excelente para ajustar os ponteiros. 
